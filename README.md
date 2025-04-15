@@ -90,10 +90,3 @@
 - 🌐 Worked with teams from **3 countries** and counting!
 - ✨ Web development is a happy place for me.
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lorena-davila2025&show_icons=true&theme=radical" alt="lorena-davila2025's GitHub stats" />
-</p>
