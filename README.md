@@ -63,9 +63,9 @@
 ### 📚 Education
 
 - 👩‍🎓 **Bachelor of Software Engineering** – Technological University of Havana (CU)
-- 🎓 **Le Wagon Bootcamp** – Web Dev (Montreal, 2025)
 - 💻 **Codeable Bootcamp** – Full-Stack (Lima, 2021)
 - 📖 **Digital House** – Certified Tech Developer (In Progress)
+- 🎓 **Le Wagon Bootcamp** – Web Dev (Montreal, 2025)
 
 <br />
 
